@@ -29,3 +29,8 @@ git log --oneline
 ```sh
 git status
 ```sh
+
+## Отображение текущих веток
+```sh
+git branch
+```sh
