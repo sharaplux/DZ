@@ -61,3 +61,6 @@ git merge <наименование ветки>
 git clone <url репозитория>
 ```sh
 
+### 
+```sh
+git push -u origin main
